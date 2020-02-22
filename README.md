@@ -1,5 +1,7 @@
 # E06a-Particles-and-Screen-Shake
 
+-- The following assignment has been completed by James Ashcraft
+
 As with other exercises, Fork and Clone this repository.
 
 This exercise is an opportunity to experiment with the Particles2D node in Godot and to give you a script with which you can implement screen shake.
